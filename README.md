@@ -9,7 +9,9 @@
     <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
     <h3 align="center">A web developer from Phnom Penh, Cambodia</h3>
     <hr />
-    <h2 align="center">🚀 &nbsp;Some Tools I Have Used and Learned</h2><br>
+    <h2 align="center">🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+    <br>
+    <br>
     <div align="center">
       <br />
       <div align="center">
