@@ -77,6 +77,6 @@
     </div>
     <br />
     <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/sreypheasin/count.svg" />
 </p>
