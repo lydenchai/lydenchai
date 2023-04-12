@@ -1,6 +1,6 @@
 <div id="" align="center">
       <img
-        src="https://lyden-resume.netlify.app/image/den.jpg"
+        src="https://github.com/lydenchai/testing/blob/main/3D66E41A-1006-4882-B33A-0DA98F5A896D.jpg"
         width="100%"
         height="100%"
         style="object-fit: cover"
