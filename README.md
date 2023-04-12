@@ -1,6 +1,6 @@
 <div id="" align="center">
       <img
-        src="https://lyden-resume.netlify.app/image/den.jpg"
+        src=""
         width="100%"
         height="500"
         style="object-fit: cover"
@@ -76,3 +76,7 @@
       </div>
     </div>
     <br />
+    <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sreypheasin/count.svg" />
+</p>
