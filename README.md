@@ -43,6 +43,12 @@
           width="75"
           height="75"
         />
+            <img
+          src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png)"
+          alt="css3"
+          width="75"
+          height="75"
+        />
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"
           alt="css3"
