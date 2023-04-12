@@ -1,8 +1,8 @@
 <div id="" align="center">
       <img
-        src=""
+        src="https://lyden-resume.netlify.app/image/den.jpg"
         width="100%"
-        height="500"
+        height="100%"
         style="object-fit: cover"
       />
     </div>
