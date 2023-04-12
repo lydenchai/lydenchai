@@ -32,6 +32,12 @@
           height="75"
         />
         <img
+          src="https://www.svgrepo.com/show/374144/typescript.svg"
+          alt="css3"
+          width="75"
+          height="75"
+        />
+        <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
           alt="css3"
           width="75"
