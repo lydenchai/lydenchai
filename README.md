@@ -55,18 +55,18 @@
           width="75"
           height="75"
         />
-        <img
+<!--         <img
           src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"
           alt="css3"
           width="75"
           height="75"
-        />
-        <img
+        /> -->
+<!--         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png"
           alt="css3"
           width="75"
           height="75"
-        />
+        /> -->
         <img
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
           alt="figma"
