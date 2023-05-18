@@ -1,10 +1,10 @@
    <div id="" align="center">
-      <!-- <img
+      <img
         src="https://github.com/lydenchai/testing/blob/main/3D66E41A-1006-4882-B33A-0DA98F5A896D.jpg"
         width="100%"
         height="100%"
         style="object-fit: cover"
-      /> -->
+      />
     </div>
     <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
     <h3 align="center">A web developer from Phnom Penh, Cambodia</h3>
@@ -55,18 +55,6 @@
           width="75"
           height="75"
         />
-<!--         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"
-          alt="css3"
-          width="75"
-          height="75"
-        /> -->
-<!--         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png"
-          alt="css3"
-          width="75"
-          height="75"
-        /> -->
         <img
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
           alt="figma"
