@@ -1,10 +1,10 @@
    <div id="" align="center">
-      <img
-        src="https://github.com/lydenchai/testing/blob/main/3D66E41A-1006-4882-B33A-0DA98F5A896D.jpg"
+<!--       <img
+        src=""
         width="100%"
         height="100%"
         style="object-fit: cover"
-      />
+      /> -->
     </div>
     <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
     <h3 align="center">A web developer from Phnom Penh, Cambodia</h3>
