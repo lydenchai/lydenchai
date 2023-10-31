@@ -1,10 +1,5 @@
    <div id="" align="center">
-<!--       <img
-        src=""
-        width="100%"
-        height="100%"
-        style="object-fit: cover"
-      /> -->
+<p align="center"><a href="https://github.com/lydenchai" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
     </div>
     <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
     <h3 align="center">A web developer from Phnom Penh, Cambodia</h3>
