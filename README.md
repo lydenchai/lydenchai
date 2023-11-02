@@ -1,7 +1,6 @@
-   <div id="" align="center">
-<p align="center"> <img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></p>
+   <div align="center">
+      <img width="50%" alt="image not found!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
     </div>  
-    
     <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
     <h3 align="center">A web developer from Phnom Penh, Cambodia</h3>
     <hr />
