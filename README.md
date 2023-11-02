@@ -1,7 +1,4 @@
-   <div align="center">
-      <img width="50%" alt="image not found!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
-    </div>  
-    <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
+   <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
     <h3 align="center">A web developer from Phnom Penh, Cambodia</h3>
     <hr />
     <h2 align="center">🚀 &nbsp;Skills</h2>
@@ -70,3 +67,6 @@
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/sreypheasin/count.svg" />
 </p>
+<!-- <div align="center">
+      <img width="50%" alt="image not found!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
+    </div>  -->
