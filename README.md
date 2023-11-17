@@ -67,6 +67,6 @@
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/sreypheasin/count.svg" />
 </p>
-<!-- <div align="center">
+<div align="center">
       <img width="50%" alt="image not found!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
-    </div>  -->
+    </div> 
