@@ -62,16 +62,20 @@
       </div>
     </div>
     <br />
-    <h2 align="center">📊 GitHub Stats:</h2>
+    <h2>📊 GitHub Stats:</h2>
     <br />
     <br /> 
+    <div>
     <img src="https://github-readme-stats.vercel.app/api?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </div>
     <br />
     <a href=#><img src="contributions.svg"></a>
-    <p align="center"> 
-  Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/sreypheasin/count.svg" />
+    <p align="center">
+
+Visitor count<br><br>
+<img src="https://profile-counter.glitch.me/sreypheasin/count.svg" />
+
 </p>
 <!-- <div align="center">
       <img width="50%" alt="image not found!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
