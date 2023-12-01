@@ -61,15 +61,12 @@
         />
       </div>
     </div>
+    <br />
+    <h2 align="center">📊 GitHub Stats:</h2>
+    <br />
     <br /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <br /> 
-    📊 GitHub Stats:
-    <br />
-    <br />
-    <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-    </div>
     <br />
     <a href=#><img src="contributions.svg"></a>
     <p align="center"> 
