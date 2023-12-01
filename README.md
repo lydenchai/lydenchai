@@ -63,7 +63,6 @@
 </div>
 <br />
 <p>📊 GitHub Stats:</p>
-<br />
 <br /> 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> 
