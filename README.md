@@ -62,6 +62,13 @@
       </div>
     </div>
     <br />
+    <center>
+    # 📊 GitHub Stats:
+    ![](https://github-readme-stats.vercel.app/api?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+    <br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    </center>
+    <br />
     <a href=#><img src="contributions.svg"></a>
     <p align="center"> 
   Visitor count<br><br>
