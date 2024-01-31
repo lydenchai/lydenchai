@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
-<h3 align="center">A web developer from Phnom Penh, Cambodia</h3>
+<h3 align="center">A Front End Developer from Phnom Penh, Cambodia</h3>
 <hr />
 <h2 align="center">🚀 &nbsp;Skills</h2>
 <div align="center">
