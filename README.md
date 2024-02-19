@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lyden CHAI</h1>
 <h3 align="center">A web Developer from Phnom Penh, Cambodia</h3>
-<p>Hi my name is Lyden CHAI a web Developer based out of Phnom Penh. I've worked on web development for 2 years.</p>
+<!-- <p>Hi my name is Lyden CHAI a web Developer based out of Phnom Penh. I've worked on web development for 2 years.</p> -->
 <hr />
 <h2 align="center">🚀 &nbsp;Skills</h2>
 <div align="center">
