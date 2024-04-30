@@ -6,7 +6,7 @@
 <div align="center">
   <br />
   <div align="center">
-<!--     <img
+      <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
       width="50"
@@ -29,7 +29,7 @@
       alt="css3"
       width="50"
       height="50"
-    />-->
+    /> 
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
       alt="css3"
