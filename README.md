@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyden</h1>
-<h3 align="center">A Front End Developer from Phnom Penh, Cambodia</h3>
+<h3 align="center">A Front-End Developer from Phnom Penh, Cambodia, also studying Computer Science at Asia Euro University (AEU).</h3>
 <!-- <p>Hi my name is Lyden CHAI a web Developer based out of Phnom Penh. I've worked on web development for 2 years.</p> -->
 <hr />
 <h2 align="center">🚀 &nbsp;Skills</h2>
