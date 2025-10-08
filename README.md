@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyden</h1>
-<h3 align="center">A Front-End Developer from Phnom Penh, Cambodia, also studying Computer Science at Asia Euro University (AEU).</h3>
+<h3 align="center">A Frontend Developer from Phnom Penh, Cambodia, also studying Computer Science at Asia Euro University (AEU).</h3>
 <!-- <p>Hi my name is Lyden CHAI a web Developer based out of Phnom Penh. I've worked on web development for 2 years.</p> -->
 <hr />
 <h2 align="center">🚀 &nbsp;Skills</h2>
@@ -70,12 +70,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <br />
-<!-- <a href=#><img src="contributions.svg"></a> -->
-<p align="center">
-  Visitor count
-<br><br>
-<img src="https://profile-counter.glitch.me/sreypheasin/count.svg" />
-</p>
 <!-- <div align="center">
       <img width="50%" alt="image not found!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
     </div>  -->
