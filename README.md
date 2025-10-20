@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyden</h1>
-<h3 align="center">A Frontend Developer from Phnom Penh, Cambodia, also studying Computer Science at Asia Euro University (AEU).</h3>
+<h3 align="center">A Frontend Developer based in Phnom Penh with a passion for building clean, responsive, and user-friendly web applications. I specialize in modern web technologies such as HTML, CSS, Tailwind CSS, JavaScript, and TypeScript, along with frameworks like Angular and Vue.js. I enjoy bringing designs to life from Figma, transforming ideas into functional, accessible, and visually engaging interfaces that look and perform beautifully across all devices. </h3>
 <!-- <p>Hi my name is Lyden CHAI a web Developer based out of Phnom Penh. I've worked on web development for 2 years.</p> -->
 <hr />
 <h2 align="center">🚀 &nbsp;Skills</h2>
