@@ -7,7 +7,7 @@
   <br />
   <div align="center">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/640px-Angular_gradient_logo.png"
       alt="css3"
       width="50"
       height="50"
