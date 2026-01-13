@@ -11,7 +11,7 @@
   with strong experience in <b>Angular</b> and <b>Vue.js</b>.
 </p>
 
-<hr />
+<!-- <hr /> -->
 
 <h2 align="center">🚀 Skills</h2>
 
@@ -26,7 +26,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" alt="Git" />
 </p>
 
-<hr />
+<!-- <hr /> -->
 
 <!-- <h2 align="center">📊 GitHub Stats</h2>
 
