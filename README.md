@@ -1,64 +1,71 @@
-<h1 align="center">👋 Hi, I'm Lyden</h1>
-
-<p align="center">
-  <b>Frontend Developer</b> · Phnom Penh 🇰🇭
-</p>
-
-<p align="center">
-  I build <b>clean</b>, <b>responsive</b>, and <b>user-friendly</b> web applications.<br />
-  Passionate about UI/UX, performance, and modern JavaScript frameworks.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lydenchai&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
+<h1 align="center">Hi 👋, I'm Lyden</h1>
+<h3 align="center">A Frontend Developer based in Phnom Penh with a passion for building clean, responsive, and user-friendly web applications. I specialize in modern web technologies such as HTML, CSS, Tailwind CSS, JavaScript, and TypeScript, along with frameworks like Angular and Vue.js.</h3>
+<!-- <p>Hi my name is Lyden CHAI a web Developer based out of Phnom Penh. I've worked on web development for 2 years.</p> -->
 <hr />
+<h2 align="center">🚀 &nbsp;Skills</h2>
+<div align="center">
+  <br />
+  <div align="center">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png"
+      alt="css3"
+      width="50"
+      height="50"
+    />
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png"
+      alt="css3"
+      width="50"
+      height="50"
+    />
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="50"
+      height="50"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"
+      alt="css3"
+      width="50"
+      height="50"
+    /> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg"
+      alt="css3"
+      width="50"
+      height="50"
+    />
+    <img
+      src="https://www.svgrepo.com/show/374144/typescript.svg"
+      alt="css3"
+      width="50"
+      height="50"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="50"
+      height="50"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="50"
+      height="50"
+    />
+  </div>
+</div>
+<br />
+<p>📊 GitHub Stats:</p>
+<br /> 
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+<br />
+<!-- <div align="center">
+      <img width="50%" alt="image not found!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
+    </div>  -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" width="42" alt="Angular" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="42" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
-  <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="42" alt="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" alt="Tailwind CSS" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" alt="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" alt="Git" />
-</p>
-
-<hr />
-
-<h2 align="center">🚀 What I Do</h2>
-
-<p align="center">
-  ✨ Convert Figma designs into pixel-perfect UI<br />
-  🧩 Build reusable & scalable component systems<br />
-  📱 Create responsive, mobile-first layouts<br />
-  ⚙️ Integrate REST APIs & manage frontend state
-</p>
-
-<hr />
-
-<h2 align="center">📈 GitHub Activity</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=lydenchai&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
-
-<hr />
-
-<p align="center">
-  💻 Frontend is not just code — it’s experience.
-</p>
+update this to look cool for frontend dev
