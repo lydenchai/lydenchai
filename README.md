@@ -1,54 +1,39 @@
-<h1 align="center">Lyden Chai</h1>
+<h1 align="center">Hi 👋, I'm Lyden</h1>
+
+<h3 align="center">
+  Frontend Developer based in Phnom Penh 🇰🇭 <br />
+  Building clean, responsive, and user-friendly web applications
+</h3>
 
 <p align="center">
-  <b>Frontend Developer</b> · Phnom Penh, Cambodia
-</p>
-
-<p align="center">
-  Frontend developer with hands-on experience building modern, responsive web applications.
-  Specialized in Angular and Vue.js, with a strong focus on clean UI, usability, and maintainable code.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lydenchai&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<hr />
-
-<h2 align="center">Technical Skills</h2>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" width="40" alt="Angular" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="40" alt="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
+  I specialize in modern frontend technologies including
+  <b>HTML</b>, <b>CSS</b>, <b>Tailwind CSS</b>, <b>JavaScript</b>, and <b>TypeScript</b>,
+  with strong experience in <b>Angular</b> and <b>Vue.js</b>.
 </p>
 
 <hr />
 
-<h2 align="center">Core Competencies</h2>
+<h2 align="center">🚀 Skills</h2>
 
 <p align="center">
-  • Component-based UI development<br />
-  • Responsive and mobile-first design<br />
-  • Figma to production-ready implementation<br />
-  • REST API integration<br />
-  • Frontend performance optimization<br />
-  • Clean, maintainable, and scalable code
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" width="48" alt="Angular" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="48" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
+  <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="48" alt="TypeScript" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" alt="Figma" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" alt="Git" />
 </p>
 
 <hr />
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=lydenchai&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=lydenchai&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
   />
 </p>
 
@@ -59,8 +44,8 @@
   />
 </p>
 
-<hr />
-
-<p align="center">
-  Focused on delivering reliable, user-centered frontend solutions.
-</p>
+<!-- Optional animation (uncomment if you like)
+<div align="center">
+  <img width="50%" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
+</div>
+-->
