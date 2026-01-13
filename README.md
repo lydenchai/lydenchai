@@ -7,7 +7,7 @@
   <br />
   <div align="center">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/640px-Angular_gradient_logo.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png"
       alt="css3"
       width="50"
       height="50"
@@ -38,12 +38,6 @@
     />
     <img
       src="https://www.svgrepo.com/show/374144/typescript.svg"
-      alt="css3"
-      width="50"
-      height="50"
-    /> 
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png"
       alt="css3"
       width="50"
       height="50"
