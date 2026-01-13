@@ -28,7 +28,7 @@
 
 <hr />
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
@@ -42,7 +42,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&layout=compact&theme=tokyonight&hide_border=true"
     height="150"
   />
-</p>
+</p> -->
 
 <!-- Optional animation (uncomment if you like)
 <div align="center">
