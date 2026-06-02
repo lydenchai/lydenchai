@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lyden</h1>
 
 <h3 align="center">
-  Frontend Developer based in Phnom Penh 🇰🇭 <br />
-  Building clean, responsive, and user-friendly web applications
+  Full Stack Web Developer based in Phnom Penh 🇰🇭 <br />
+  Building clean, responsive, and robust web applications
 </h3>
 
 <p align="center">
-  I specialize in modern frontend technologies including
+  I specialize in modern web technologies across the stack. On the frontend, I work with
   <b>HTML</b>, <b>CSS</b>, <b>Tailwind CSS</b>, <b>JavaScript</b>, and <b>TypeScript</b>,
-  with strong experience in <b>Angular</b> and <b>Vue.js</b>.
+  with strong experience in <b>Angular</b> and <b>Vue.js</b>. For the backend, I build scalable APIs and services using <b>Node.js</b>, <b>Express.js</b>, and <b>MongoDB</b>.
 </p>
-
-<!-- <hr /> -->
 
 <h2 align="center">🚀 Skills</h2>
 
@@ -22,6 +20,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
   <img src="https://www.svgrepo.com/show/374144/typescript.svg" width="48" alt="TypeScript" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" alt="MongoDB" />
+  
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" alt="Figma" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" alt="Git" />
 </p>
