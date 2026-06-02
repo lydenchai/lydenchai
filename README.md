@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<br />
+<!-- <br />
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lydenchai&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
-<br />
+<br /> -->
 
 <!-- <h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
