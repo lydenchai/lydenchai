@@ -10,7 +10,7 @@
     🔭 I’m currently working on <b>Full Stack Web Applications</b><br>
     🌱 I’m deeply focused on <b>Angular, Vue.js, Node.js, and MongoDB</b><br>
     💬 Ask me about <b>Frontend architecture & Backend APIs</b><br>
-    📫 How to reach me: <b>[Insert Your Email Here]</b>
+    📫 How to reach me: <b>lyden.chai@gmail.com</b>
   </p>
 </div>
 
