@@ -45,7 +45,7 @@
 
 <br />
 
-<h2 align="center">🤝 Connect with Me</h2>
+<!-- <h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
   <a href="[INSERT LINKEDIN URL]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -53,4 +53,4 @@
   <a href="[INSERT PORTFOLIO URL]">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</p> -->
