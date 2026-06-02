@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Building+clean%2C+responsive+UI;Crafting+robust+Backend+APIs;Based+in+Phnom+Penh+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
   </a>
 </p>
-
 <div align="center">
   <p>
     🔭 I’m currently working on <b>Full Stack Web Applications</b><br>
@@ -13,11 +12,7 @@
     📫 How to reach me: <b>lyden.chai@gmail.com</b>
   </p>
 </div>
-
-<br />
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
