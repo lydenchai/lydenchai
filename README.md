@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyden</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Building+clean%2C+responsive+UI;Crafting+robust+Backend+APIs;Based+in+Phnom+Penh+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
   </a>
@@ -28,7 +28,7 @@
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+</p> -->
 
 <!-- <br />
 
