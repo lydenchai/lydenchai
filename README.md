@@ -70,7 +70,7 @@ Stats.Line .......... Scalable UI · Component Design Systems
 * Developed reusable UI patterns that significantly reduced development time and improved visual consistency for new feature rollouts.
 * Profiled and resolved critical UI rendering issues, ensuring fluid 60fps interactions and a reliable user experience.
 
-**Web Developer** — POSCAR Digital Co., Ltd.
+**Web Developer Intern** — POSCAR Digital Co., Ltd.
 *Jan 2022 – May 2022*
 * Contributed to the frontend development of dynamic web projects utilizing Vue.js framework.
 * Supported full-stack feature delivery by assisting with backend integrations in PHP (Laravel) when project scope required.
