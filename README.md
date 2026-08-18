@@ -43,7 +43,7 @@ Stats.Line .......... Scalable UI · Component Design Systems
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-/** ### Tools & Infrastructure
+### Tools & Infrastructure
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-007ACC?style=for-the-badge&logo=antigravity&logoColor=white)
@@ -75,7 +75,7 @@ Stats.Line .......... Scalable UI · Component Design Systems
 * Contributed to the frontend development of dynamic web projects utilizing Vue.js framework.
 * Supported full-stack feature delivery by assisting with backend integrations in PHP (Laravel) when project scope required.
 * Connected client-side interfaces to backend APIs, ensuring reliable data fetching and database synchronization.
-* Diagnosed bugs, optimized page load times, and maintained accurate project documentation to support the engineering team. **/
+* Diagnosed bugs, optimized page load times, and maintained accurate project documentation to support the engineering team.
 
 ### Core Competencies
 
