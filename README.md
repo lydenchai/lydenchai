@@ -1,4 +1,4 @@
-<pre align="center">
+<pre>
 lyden@chai
 -----------------------------------------
 Role     : Senior Frontend Developer
