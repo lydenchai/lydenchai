@@ -11,9 +11,8 @@ Languages.Frontend ........... HTML5 · CSS3 · SASS · Tailwind CSS
 Languages.Framework .......... Angular · Vue.js · React.js
 Languages.Backend ............ Node.js · Express.js · PHP (Laravel)
 Languages.Database ........... MongoDB
-Languages.Spoken ............. Khmer (Native) · English (Intermediate)
 -----------------------------------------
-Hobbies.Software ... Web Dev · UI/UX Architecture · Open Source
+Hobbies.Software ... Web Dev · UI/UX Architecture
 Hobbies.Hardware ... PC Building · Custom Keyboards
 -----------------------------------------
 Contact.Email ...... XXXXXXXXXXXXXXXXXXXX
