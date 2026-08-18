@@ -53,7 +53,7 @@ Stats.Line .......... Scalable UI · Component Design Systems
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![REST API Design](https://img.shields.io/badge/REST_API_Design-005571?style=for-the-badge)
 
-### Work Experience
+<!-- ### Work Experience
 
 **Frontend Developer** — Polygram Solution Co., Ltd.
 *May 2024 – Present*
@@ -75,7 +75,7 @@ Stats.Line .......... Scalable UI · Component Design Systems
 * Contributed to the frontend development of dynamic web projects utilizing Vue.js framework.
 * Supported full-stack feature delivery by assisting with backend integrations in PHP (Laravel) when project scope required.
 * Connected client-side interfaces to backend APIs, ensuring reliable data fetching and database synchronization.
-* Diagnosed bugs, optimized page load times, and maintained accurate project documentation to support the engineering team.
+* Diagnosed bugs, optimized page load times, and maintained accurate project documentation to support the engineering team. -->
 
 ### Core Competencies
 
