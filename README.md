@@ -78,7 +78,7 @@ Stats.Design ................. Pixel-Perfect Responsive UI · Design Systems
 
 **Web Developer Intern** — POSCAR Digital Co., Ltd.  
 *Jan 2022 – May 2022*
-* Built frontend features with Vue.js, assisted with PHP (Laravel) backend integration, and supported UI optimization and technical documentation. -->
+* Built frontend features with Vue.js, assisted with PHP (Laravel) backend integration, and supported UI optimization and technical documentation.
 
 ### Core Competencies
 
@@ -92,4 +92,4 @@ Stats.Design ................. Pixel-Perfect Responsive UI · Design Systems
 
 * **Quality Codebase:** Writing clean, strongly-typed TypeScript with maintainable structures and reusable patterns.
 * **Collaboration & Ownership:** Working closely with cross-functional teams, UX designers, and backend engineers using Git, Docker, and standard CI/CD practices.
-* **Continuous Growth:** Continuously adopting modern frontend tools, performance optimizations, and design system best practices.
+* **Continuous Growth:** Continuously adopting modern frontend tools, performance optimizations, and design system best practices. -->
