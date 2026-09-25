@@ -4,7 +4,7 @@ lyden@chai
 Role         : Senior Frontend Developer
 Education    : B.S. in Computer Science (AEU) · Assoc. Web Programming (PNC)
 Location     : Phnom Penh, Cambodia
-Portfolio    : https://lyden-chai-portfolio.netlify.app/
+Portfolio    : https://lyden-chai.netlify.app/
 IDE & Tools  : VS Code · Antigravity
 -------------------------------------------------------------------------
 Languages.Programming ........ TypeScript · JavaScript (ES6+)
